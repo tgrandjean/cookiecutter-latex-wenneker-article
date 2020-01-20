@@ -18,7 +18,7 @@ Install *cookiecutter*:
 
 Generate a LaTeX project:
 
-    cookiecutter https://github.com/tgrandjean/cookiecutter-latex-article
+    cookiecutter https://github.com/tgrandjean/cookiecutter-latex-wenneker-article
 
 Start writing your document!
 
