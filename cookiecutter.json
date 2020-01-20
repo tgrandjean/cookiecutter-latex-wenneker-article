@@ -1,0 +1,11 @@
+{
+    "repo_name": "latex-template",
+    "first_name":"Thibault",
+    "last_name":"Grandjean",
+    "language" : ["En", "Fr"],
+    "institution":"Openclassrooms",
+    "title": "Title",
+    "abstract" : ["yes", "no"],
+    "bibtex": ["yes", "no"],
+    "add_examples": ["yes", "no"]
+}

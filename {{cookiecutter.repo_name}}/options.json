@@ -1,0 +1,4 @@
+{
+    "bibtex":"{{cookiecutter.bibtex}}",
+    "add_examples": "{{cookiecutter.add_examples}}"
+}
